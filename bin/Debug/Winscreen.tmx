@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.8" tiledversion="1.8.0" orientation="orthogonal" renderorder="right-down" width="100" height="100" tilewidth="32" tileheight="32" infinite="0" nextlayerid="3" nextobjectid="1">
+ <tileset firstgid="1" name="Win" tilewidth="32" tileheight="32" tilecount="390" columns="26">
+  <image source="C:/Users/dascv/OneDrive/Pictures/Win.jpg" width="852" height="480"/>
+ </tileset>
+ <imagelayer id="2" name="Background" offsetx="0" offsety="-4">
+  <image source="Win.jpg" width="852" height="480"/>
+ </imagelayer>
+</map>

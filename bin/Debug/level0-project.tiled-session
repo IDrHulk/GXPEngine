@@ -1,0 +1,204 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "level.tmx",
+    "expandedProjectPaths": [
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Marvin/Downloads/GameDesign-main/GameDesign-main/GXPEngine2022BB/GXPEngine/bin/Debug/Tiled/Level_1.tmx": {
+            "scale": 1,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 2799.5,
+                "y": 1199.5
+            }
+        },
+        "C:/Users/Marvin/Downloads/GameDesign-main/GameDesign-main/GXPEngine2022BB/GXPEngine/bin/Debug/Tiled/Level_1.tmx#mellowautotiles": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Marvin/Downloads/GameDesign-main/GameDesign-main/GXPEngine2022BB/GXPEngine/bin/Debug/Tiled/Level_1.tmx#mellowplatformertileset": {
+            "scaleInDock": 1
+        },
+        "D:/0cmgt/TERM 2/3. Game Programming/tiled0.tmx": {
+            "scale": 0.254125,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1587.80127889818,
+                "y": 1603.541564190851
+            }
+        },
+        "D:/0cmgt/TERM 2/3. Game Programming/tutorials_practice/GXPEngine/bin/Debug/Strawberry.tsx": {
+            "scaleInDock": 1
+        },
+        "D:/0cmgt/TERM 2/3. Game Programming/tutorials_practice/GXPEngine/bin/Debug/tiled0.tmx": {
+            "scale": 1,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 368.5,
+                "y": 292.5
+            }
+        },
+        "D:/0cmgt/TERM 2/3. Game Programming/tutorials_practice/GXPEngine/bin/Debug/tiled0.tmx#Plant": {
+            "scaleInDock": 1
+        },
+        "D:/0cmgt/TERM 2/3. Game Programming/tutorials_practice/GXPEngine/bin/Debug/tiled0.tmx#solid1": {
+            "scaleInDock": 1
+        },
+        "D:/0cmgt/TERM 2/Review_Game_Programming/Casper/Robocharge/Robocharge/GXPEngine/bin/Debug/maps/Factory.tmx": {
+            "scale": 4,
+            "selectedLayer": 8,
+            "viewCenter": {
+                "x": 994.875,
+                "y": 159.875
+            }
+        },
+        "D:/0cmgt/TERM 2/Review_Game_Programming/Casper/Robocharge/Robocharge/GXPEngine/bin/Debug/maps/Factory.tmx#Battery": {
+            "scaleInDock": 1
+        },
+        "D:/0cmgt/TERM 2/Review_Game_Programming/Casper/Robocharge/Robocharge/GXPEngine/bin/Debug/maps/Factory.tmx#OrangeRobot_SpriteSheet": {
+            "scaleInDock": 1
+        },
+        "D:/0cmgt/TERM 2/Review_Game_Programming/Casper/Robocharge/Robocharge/GXPEngine/bin/Debug/maps/Factory.tmx#Tileset&Items": {
+            "scaleInDock": 1
+        },
+        "D:/0cmgt/TERM 2/Review_Game_Programming/Casper/Robocharge/Robocharge/GXPEngine/bin/Debug/maps/Factory.tmx#charger": {
+            "scaleInDock": 1
+        },
+        "D:/0cmgt/TERM 2/Review_Game_Programming/Casper/Robocharge/Robocharge/GXPEngine/bin/Debug/maps/Factory.tmx#empty": {
+            "scaleInDock": 1
+        },
+        "D:/0cmgt/TERM 2/Review_Game_Programming/Casper/Robocharge/Robocharge/GXPEngine/bin/Debug/maps/Factory.tmx#prop pack": {
+            "scaleInDock": 1
+        },
+        "D:/0cmgt/TERM 2/Review_Game_Programming/Casper/Robocharge/Robocharge/GXPEngine/bin/Debug/maps/Factory.tmx#seamless textures": {
+            "scaleInDock": 1
+        },
+        "D:/0cmgt/TERM 2/Review_Game_Programming/Casper/Robocharge/Robocharge/GXPEngine/bin/Debug/maps/Nature.tmx": {
+            "scale": 3,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 293.5,
+                "y": 169.5
+            }
+        },
+        "D:/0cmgt/TERM 2/Review_Game_Programming/Casper/Robocharge/Robocharge/GXPEngine/bin/Debug/maps/Nature.tmx#Battery": {
+            "scaleInDock": 1
+        },
+        "D:/0cmgt/TERM 2/Review_Game_Programming/Casper/Robocharge/Robocharge/GXPEngine/bin/Debug/maps/Nature.tmx#OrangeRobot_SpriteSheet": {
+            "scaleInDock": 1
+        },
+        "D:/0cmgt/TERM 2/Review_Game_Programming/Casper/Robocharge/Robocharge/GXPEngine/bin/Debug/maps/Nature.tmx#Tileset&Items": {
+            "scaleInDock": 1
+        },
+        "D:/0cmgt/TERM 2/Review_Game_Programming/Casper/Robocharge/Robocharge/GXPEngine/bin/Debug/maps/Nature.tmx#charger": {
+            "scaleInDock": 1
+        },
+        "D:/0cmgt/TERM 2/Review_Game_Programming/Casper/Robocharge/Robocharge/GXPEngine/bin/Debug/maps/Nature.tmx#empty": {
+            "scaleInDock": 1
+        },
+        "D:/0cmgt/TERM 2/Review_Game_Programming/Casper/Robocharge/Robocharge/GXPEngine/bin/Debug/maps/Nature.tmx#forest": {
+            "scaleInDock": 1
+        },
+        "D:/0cmgt/TERM 2/Review_Game_Programming/Casper/Robocharge/Robocharge/GXPEngine/bin/Debug/maps/Nature.tmx#prop pack": {
+            "scaleInDock": 1
+        },
+        "D:/0cmgt/TERM 2/Review_Game_Programming/Casper/Robocharge/Robocharge/GXPEngine/bin/Debug/maps/Nature.tmx#seamless textures": {
+            "scaleInDock": 1
+        },
+        "D:/0cmgt/TERM 2/Review_Game_Programming/Matias/voidInvasionGame-master/GXPEngine2022BB1/GXPEngine2022BB/GXPEngine/bin/Debug/tiledMaps/level3.tmx": {
+            "scale": 2,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 2625.25,
+                "y": 235.25
+            }
+        },
+        "D:/0cmgt/TERM 2/Review_Game_Programming/Matias/voidInvasionGame-master/GXPEngine2022BB1/GXPEngine2022BB/GXPEngine/bin/Debug/tiledMaps/level3.tmx#old-dark-castle-interior-tileset": {
+            "scaleInDock": 1
+        },
+        "level.tmx": {
+            "scale": 0.33,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 1253.0303030303032,
+                "y": 1092.4242424242423
+            }
+        },
+        "level.tmx#Apple": {
+            "scaleInDock": 1
+        },
+        "level.tmx#basicTiles": {
+            "scaleInDock": 1
+        },
+        "level.tmx#slimeBlue": {
+            "scaleInDock": 1
+        },
+        "level.tmx#slimeGreen": {
+            "scaleInDock": 1
+        },
+        "level.tmx#slimePurple": {
+            "scaleInDock": 1
+        },
+        "level0.tmx": {
+            "scale": 1,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 319.5,
+                "y": 319.5
+            }
+        },
+        "level0.tmx#basicTiles": {
+            "scaleInDock": 1
+        },
+        "level0.tmx#basic_tiles": {
+            "scaleInDock": 1
+        },
+        "level0.tmx#slimeBlue": {
+            "scaleInDock": 1
+        },
+        "level0.tmx#slimeGreen": {
+            "scaleInDock": 1
+        },
+        "winScreen.tmx": {
+            "scale": 1,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 287.5,
+                "y": 304.5
+            }
+        }
+    },
+    "last.imagePath": "D:/0cmgt/TERM 2/3. Game Programming/0. Final Assesment/GXPEngine/bin/Debug",
+    "map.height": 19,
+    "map.lastUsedFormat": "tmx",
+    "map.width": 19,
+    "openFiles": [
+        "level0.tmx",
+        "level.tmx",
+        "winScreen.tmx"
+    ],
+    "project": "level0-project.tiled-project",
+    "property.type": "int",
+    "recentFiles": [
+        "level0.tmx",
+        "winScreen.tmx",
+        "level.tmx",
+        "C:/Users/Marvin/Downloads/GameDesign-main/GameDesign-main/GXPEngine2022BB/GXPEngine/bin/Debug/Tiled/Level_1.tmx",
+        "D:/0cmgt/TERM 2/Review_Game_Programming/Matias/voidInvasionGame-master/GXPEngine2022BB1/GXPEngine2022BB/GXPEngine/bin/Debug/tiledMaps/level3.tmx",
+        "D:/0cmgt/TERM 2/3. Game Programming/tiled0.tmx",
+        "D:/0cmgt/TERM 2/Review_Game_Programming/Casper/Robocharge/Robocharge/GXPEngine/bin/Debug/maps/Nature.tmx",
+        "D:/0cmgt/TERM 2/Review_Game_Programming/Casper/Robocharge/Robocharge/GXPEngine/bin/Debug/maps/Factory.tmx",
+        "D:/0cmgt/TERM 2/3. Game Programming/tutorials_practice/GXPEngine/bin/Debug/tiled0.tmx"
+    ],
+    "tileset.embedInMap": true,
+    "tileset.tileSize": {
+        "height": 34,
+        "width": 57
+    }
+}
